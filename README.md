@@ -37,6 +37,6 @@ This project focused on a retail company looking to optimize the prices of their
 - Further optimized the analysis by incorporating price elasticity to understand how changes in price affect the quantity demanded of a product or service.
 
 ### Price Optimization Per Product
-![](/Price%20Optimzation%20Per%20Product.png)
+![](Price%20Optimzation%20Per%20Product.png)
 
 ---------------------------------------------
