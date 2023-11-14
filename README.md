@@ -22,7 +22,8 @@ This project focused on forecasting the prices of avocados in the US. We explore
 - Performed feature engineering to create relevant features that can enhance the performance of our price prediction models.
 - Utilized two time series models to predict prices: ARIMA and SARIMA.
 
-### SARIMA Model Prediction ![](Avocado%20Forecast%20Using%20SARIMA.png)
+### SARIMA Model Prediction 
+![](Avocado%20Forecast%20Using%20SARIMA.png)
 
 ## Project 3: [Retail Price Optimization](https://github.com/omi-swiss/ML-Price-Optimization)
 
@@ -35,6 +36,7 @@ This project focused on a retail company looking to optimize the prices of their
 - Used Ordinary Least Squares (OLS) to estimate the parameters of the linear regression model.
 - Further optimized the analysis by incorporating price elasticity to understand how changes in price affect the quantity demanded of a product or service.
 
-### Price Optimization Per Product ![](/Price%20Optimzation%20Per%20Product.png)
+### Price Optimization Per Product
+![](/Price%20Optimzation%20Per%20Product.png)
 
 
