@@ -39,4 +39,4 @@ This project focused on a retail company looking to optimize the prices of their
 ### Price Optimization Per Product
 ![](/Price%20Optimzation%20Per%20Product.png)
 
-
+---------------------------------------------
