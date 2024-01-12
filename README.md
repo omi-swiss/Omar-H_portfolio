@@ -13,7 +13,7 @@ This project delves into the realm of healthcare analytics with a focus on predi
 - Post-analysis, we integrate our model predictions back into Snowflake, enabling real-time updates and insights for healthcare providers.
 
 ### Architecture  
-![](Healthcare-Analytics/blob/main/Architecture%20Design.png)
+![](Architecture%20Design.png)
 
 ## Project 2: [Customer Propensity Model for an E-Commerce Company](https://github.com/omi-swiss/Customer-Propensity-Model)
 
