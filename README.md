@@ -1,6 +1,6 @@
 # Omar's Portfolio
 
-## Project 1: [Healthcare Analytics: Patient Length of Stay Prediction]([https://github.com/your-github-repo/healthcare-analytics-LOS-prediction)
+## Project 1: [Healthcare Analytics: Patient Length of Stay Prediction](https://github.com/omi-swiss/Healthcare-Analytics)
 
 This project delves into the realm of healthcare analytics with a focus on predicting the Length of Stay (LOS) for patients in various healthcare facilities. The Length of Stay is a crucial indicator in healthcare, impacting patient outcomes, healthcare costs, and overall hospital efficiency.
 
@@ -11,9 +11,9 @@ This project delves into the realm of healthcare analytics with a focus on predi
 - The project leverages AWS Sagemaker for a streamlined machine learning pipeline, enhancing the efficiency of our model development process.
 - Our predictive models include Linear Regression, Random Forest Regression, and XGBoost Regression, each offering unique insights into the factors influencing patient LOS.
 - Post-analysis, we integrate our model predictions back into Snowflake, enabling real-time updates and insights for healthcare providers.
-- 
+
 ### Architecture  
-![](Healthcare-Analytics/blob/main/Architecture%20Design.avif)
+![](Healthcare-Analytics/blob/main/Architecture%20Design.png)
 
 ## Project 2: [Customer Propensity Model for an E-Commerce Company](https://github.com/omi-swiss/Customer-Propensity-Model)
 
